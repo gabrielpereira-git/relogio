@@ -1,0 +1,26 @@
+body{
+	background: #1C1C1C;
+	
+}
+/* FONTE DO GOOGLE FONTS*/ 
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&display=swap');
+
+h1{
+	color: #E8E8E8;
+	font: bold 90px ARIAL;
+	text-align: center;
+	padding-top:200px;
+	
+}
+p{
+
+	color:#FFFAFA;
+	font: 38px 'Cormorant Garamond', serif;
+
+	text-align: center;
+	padding: 15px;
+	margin: 0 auto;
+
+
+}
+
